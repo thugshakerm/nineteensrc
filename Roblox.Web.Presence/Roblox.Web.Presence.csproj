@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Web.Presence</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Roblox.Platform.Presence">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Presence.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.TranslationResources">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.TranslationResources.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox Server Class Library">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox Server Class Library.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Assets">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Assets.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.UniverseDisplayInformation">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.UniverseDisplayInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Universes">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Universes.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Localization.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Localization.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Web.Authentication">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Web.Authentication.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Membership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Membership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Social">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Social.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc" />
+    <Reference Include="Roblox.Web.Devices">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Web.Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Devices">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Time">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Time.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.MembershipCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.MembershipCore.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Net.Http">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.AssetsCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.AssetsCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

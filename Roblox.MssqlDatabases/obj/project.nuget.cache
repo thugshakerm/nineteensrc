@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W2KavxZXxnt2sPeo5UMagUlsdKSlmIB1w0wfjP64lAKu+UUpd0MQTIjf2nd6rcWTjPuHB0y/nbYHsRaa33AGpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\2019_site_src\\Roblox.MssqlDatabases\\Roblox.MssqlDatabases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

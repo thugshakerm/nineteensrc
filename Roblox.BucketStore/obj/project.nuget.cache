@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKaSxDwXZXO4Hkn2qgwf++PFD0TO51PJi/Mx1zzljn+tB3T19dCDTDKBCX4usTdP6yr24go/XFEJft7EFh9W3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\2019_site_src\\Roblox.BucketStore\\Roblox.BucketStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

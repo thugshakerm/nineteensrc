@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Web</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Net.Http">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Instrumentation">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Common">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Infrastructure">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Roblox.Platform.Throttling">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Throttling.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EventLog.Windows">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.DataV2.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.DataV2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Common.Web">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Common.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Hashing">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Hashing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Extensions" />
+  </ItemGroup>
+</Project>

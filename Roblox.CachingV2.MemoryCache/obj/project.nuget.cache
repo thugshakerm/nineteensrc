@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hb6NllHjgfGG2rL1JwGN981qIbzjNeA8u+gkHMio1JqfRqrPnE79WjoGeTyH9/45NsJz5A5EHY5QTJ1axdDCkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\2019_site_src\\Roblox.CachingV2.MemoryCache\\Roblox.CachingV2.MemoryCache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

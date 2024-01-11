@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Platform.Games.Counters</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Roblox.Platform.Counters">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Counters.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Devices">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Assets">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Assets.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EphemeralCounters" />
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Outfits">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Outfits.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Avatar">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Avatar.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.UniverseSettings">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.UniverseSettings.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Collections">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Universes">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Universes.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Currency.Client" />
+    <Reference Include="Roblox Server Class Library">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox Server Class Library.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Membership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Membership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Caching">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.ApiClientBase">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.ApiClientBase.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.AssetsCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.AssetsCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.MembershipCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.MembershipCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Billing">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Billing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>

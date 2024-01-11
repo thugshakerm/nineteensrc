@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Platform.AssetMedia</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Roblox.Platform.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Assets">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Assets.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.AssetOwnership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.AssetOwnership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EphemeralCounters" />
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Thumbs">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Thumbs.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Universes">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Universes.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.AssetMedia.Entities">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.AssetMedia.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox Server Class Library">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox Server Class Library.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Membership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Membership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.FloodCheckers.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.FloodCheckers.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.ApiClientBase">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.ApiClientBase.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.AssetMedia">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.AssetMedia.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.EventStream">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.EventStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.EventStream.WebEvents">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.EventStream.WebEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Devices">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Currency.Client" />
+    <Reference Include="Roblox.Marketplace.Client" />
+    <Reference Include="Roblox.TransactionEvents">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.TransactionEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.YouTube">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.YouTube.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Common">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.AssetsCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.AssetsCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.MembershipCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.MembershipCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Drawing">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Roblox.FloodCheckers">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.FloodCheckers.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Economy.Common">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Economy.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Economy">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Economy.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.VirtualCurrency">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.VirtualCurrency.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Amazon.Sqs</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="AWSSDK.SQS" />
+    <Reference Include="AWSSDK.Core" />
+    <Reference Include="Roblox.Amazon.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Amazon.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Sentinels">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Sentinels.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Instrumentation">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Coordination">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Coordination.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Time">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Time.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.FloodCheckers.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.FloodCheckers.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.FloodCheckers.Redis">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.FloodCheckers.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration.ConfigurationManager">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

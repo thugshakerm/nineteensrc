@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Platform.UserBlock.Core</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Roblox.Permissions.Client" />
+    <Reference Include="Roblox.Caching">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Membership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Membership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Permissions.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Permissions.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox Server Class Library">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox Server Class Library.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.MembershipCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.MembershipCore.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>

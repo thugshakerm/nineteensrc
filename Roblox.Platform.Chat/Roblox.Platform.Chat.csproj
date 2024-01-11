@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Platform.Chat</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Roblox.Platform.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.FloodCheckers.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.FloodCheckers.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Membership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Membership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Social">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Social.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Redis">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Roblox.Time">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Time.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Universes">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Universes.dll</HintPath>
+    </Reference>
+    <Reference Include="StackExchange.Redis">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\StackExchange.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="AWSSDK.DynamoDBv2" />
+    <Reference Include="Roblox.TextFilter.Client" />
+    <Reference Include="Roblox.Http">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.TeamCreate">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.TeamCreate.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Assets">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Assets.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Groups">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Groups.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Devices">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Devices.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Communication.Behavior">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Communication.Behavior.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Amazon.Sns">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Amazon.Sns.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Instrumentation">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EphemeralCounters" />
+    <Reference Include="Roblox.RealTimeNotifications">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.RealTimeNotifications.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Diagnostics">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Diagnostics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="Roblox.Locking">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Locking.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Common">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Data">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Caching">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Entities">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.MssqlDatabases">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.MssqlDatabases.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.MembershipCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.MembershipCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.AssetsCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.AssetsCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Amazon.DynamoDb">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Amazon.DynamoDb.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.Core" />
+    <Reference Include="Roblox.FloodCheckers">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.FloodCheckers.dll</HintPath>
+    </Reference>
+    <Reference Include="GraphemeSplitter" />
+    <Reference Include="Roblox.Entities.Mssql">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Entities.Mssql.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HfIUoFdvupuZO+Gmt579WD18tjtyRSjC7IsrninOL7rRPEma7rQ46uG7JxbIWQ9CErtyxl3alal2IYU8SNJ/BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\2019_site_src\\Roblox.CachingV2.Diagnostics\\Roblox.CachingV2.Diagnostics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

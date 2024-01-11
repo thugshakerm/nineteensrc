@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Platform.StaticContent</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Roblox.StaticContent.Client">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.StaticContent.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="Roblox.Instrumentation">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.CachingV2.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.CachingV2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Caching">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.DataV2.Core">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.DataV2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Membership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Membership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Http.ServiceClient">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Http.ServiceClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.CachingV2.MemoryCache">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.CachingV2.MemoryCache.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.CachingV2.Diagnostics">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.CachingV2.Diagnostics.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

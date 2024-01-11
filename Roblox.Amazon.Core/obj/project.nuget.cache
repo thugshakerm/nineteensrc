@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WrlnbfXkKwaOulK7iSlTAOVp5I184d1q9MrhUBDrFDU7jxW4eNTfTJJGNPIrCrn8ikBWRjiS2vyZUGkcmIA0pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Downloads\\2019_site_src\\Roblox.Amazon.Core\\Roblox.Amazon.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

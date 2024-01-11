@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Roblox.Web.StaticContent</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net471</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Roblox.Platform.StaticContent">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.StaticContent.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Membership">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Membership.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Networking">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Web.Authentication">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Web.Authentication.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Caching">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Caching.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.Localization.Accounts">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.Localization.Accounts.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Web.Code">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Web.Code.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.StaticContent.Client">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.StaticContent.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.TranslationResources">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.TranslationResources.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.EventLog">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Configuration">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="Roblox.Common.Web">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Common.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox Server Class Library">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox Server Class Library.dll</HintPath>
+    </Reference>
+    <Reference Include="Roblox.Platform.MembershipCore">
+      <HintPath>C:\Users\fire\Downloads\october_2019_roblox_website\Roblox.Platform.MembershipCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
